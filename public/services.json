@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "serial": "#1001",
+    "title": "Login page not loading",
+    "description": "User reports that the login page keeps showing a blank screen.",
+    "customer": "Mahin Rahman",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "01/10/2024"
+  },
+  {
+    "id": 2,
+    "serial": "#1001",
+    "title": "Password reset email not received",
+    "description": "Customer did not get the password reset email after multiple attempts.",
+    "customer": "Fatema Akter",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "01/11/2024"
+  },
+  {
+    "id": 3,
+    "serial": "#1001",
+    "title": "Payment failed during checkout",
+    "description": "Transaction declined even though the card is valid.",
+    "customer": "Sabbir Hossain",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "01/12/2024"
+  },
+  {
+    "id": 4,
+    "serial": "#1001",
+    "title": "Profile picture not uploading",
+    "description": "Image upload button not responding.",
+    "customer": "Rifat Islam",
+    "priority": "Low",
+    "status": "In-Progress",
+    "createdAt": "01/13/2024"
+  },
+  {
+    "id": 5,
+    "serial": "#1001",
+    "title": "App crashes on startup",
+    "description": "Android app stops immediately after opening.",
+    "customer": "Samiul Karim",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "01/14/2024"
+  },
+  {
+    "id": 6,
+    "serial": "#1001",
+    "title": "Dark mode not saving",
+    "description": "Dark mode toggle resets every time user reopens the app.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "01/14/2024"
+  },
+  {
+    "id": 7,
+    "serial": "#1001",
+    "title": "Unable to update profile info",
+    "description": "User cannot save updated email or phone number.",
+    "customer": "Hridoy Sheikh",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "01/15/2024"
+  },
+  {
+    "id": 8,
+    "serial": "#1001",
+    "title": "Notification sound missing",
+    "description": "No sound plays when new notifications arrive.",
+    "customer": "Tania Sultana",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "01/15/2024"
+  },
+  {
+    "id": 9,
+    "serial": "#1001",
+    "title": "Search results inaccurate",
+    "description": "Search results do not match the user's query.",
+    "customer": "Masud Rana",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "01/16/2024"
+  },
+  {
+    "id": 10,
+    "serial": "#1001",
+    "title": "Slow loading dashboard",
+    "description": "Dashboard takes more than 10 seconds to load.",
+    "customer": "Jannat E Nusaiba",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "01/16/2024"
+  },
+  {
+    "id": 11,
+    "serial": "#1001",
+    "title": "2FA code not working",
+    "description": "User enters valid 2FA code but login still fails.",
+    "customer": "Hasan Ali",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "01/17/2024"
+  },
+  {
+    "id": 12,
+    "serial": "#1001",
+    "title": "Language settings not applied",
+    "description": "Selected language does not change across all pages.",
+    "customer": "Lamia Chowdhury",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "01/17/2024"
+  }
+]
